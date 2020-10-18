@@ -7,8 +7,9 @@ In order to run this code you need to first:
   - Click on `Computer Vision`
   - Click on the `Start Free` link to set up your Computer Vision instance
   - Once in the Azure Portal, remember to select the free option :)
-- In the Azure Portal, local the `Keys and Endpoint` page and be ready to copy the values
+- In the Azure Portal, locate the `Keys and Endpoint` page and be ready to copy the values
 - Create a new text file in the folder "`My Documents`", name it `ImageTagger.Settings.Json` 
+  - If you are on mac/linux, place it in your home folder `cd ~/`
 - Paste in the API key and endpoint from the Azure Cognitive Vision API to the file like this:
  ```json
 {
